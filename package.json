@@ -16,7 +16,7 @@
   "author": "Alexander Bondarenko <cs050383bav@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://cs050383bav.github.io/goit-js-hw-09/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
