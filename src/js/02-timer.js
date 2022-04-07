@@ -48,7 +48,7 @@ function getButtonStart() {
        const convertObj = convertMs(targetDate);
         showDate(convertObj);
     //    console.log(convertObj);
-    }, 1000)
+    },)
  
 };
 function stopTimeOut(targetDates) {
